@@ -1,0 +1,14 @@
+{
+  "name": "my-dad-is-awesome-node",
+  "version": "1.0.0",
+  "description": "Html5 Canvas Game",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ray oconnor",
+  "license": "ISC"
+}
